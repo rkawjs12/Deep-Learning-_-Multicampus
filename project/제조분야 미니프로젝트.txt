@@ -1,0 +1,45 @@
+미니 프로젝트(제조 분야)
+===================
+
+○ 주제 : Extreme-rare-event Classification
+○ 목표 : 간략하지만 완결된 보고서를 작성할 수 있다.
+○ 참고 : 깃허브 '프로젝트' 폴더
+○ 기한 : 오늘 수업시간 이내
+
+○ 수행 내용
+ - 업무 내용 파악 (요구사항 분석)
+ - 데이터 확보 및 파악
+ - 데이터 전처리
+ - 모델 구축 및 훈련
+ - 작업 결과 분석/시각화
+ - 결론/시사점/향후계획
+
+continuation : 계속
+preparation : 전처리
+Anomaly Detection : 이상 감지
+temporal : 일시적인
+recap : 요점을 되풀이하다
+extracting : 적출
+
+break down : 고장
+go over : 사찰하다
+intermediate : 중간의
+straightforward : 복잡하지 않은
+peculiarities : 특색, 특징
+popularly : 대중적으로, 일반적으로
+explanations : 설명
+
+## Step-by-step understanding LSTM Autoencoder layers ##
+https://towardsdatascience.com/step-by-step-understanding-lstm-autoencoder-layers-ffab055b6352
+여기에선 LSTM과 LSTM Autoencoder layers의 차이에 대한 보고서
+
+LSTM Autoencoder는 seq2seq networks와 유사하다.
+
+# 이것들의 의미를 알아야 한다.
+	Meaning of return_sequences=True,
+	RepeatVector()
+	TimeDistributed()
+
+	Understanding the input and output of each LSTM Network layer.
+
+	Differences between a regular LSTM network and an LSTM Autoencoder.
